@@ -7,4 +7,4 @@ def index(requests):
 
 
 def about(requests):
-    return HttpResponse("<h2>О нас:</h2>")
+    return HttpResponse("<h2>О нас</h2>")
